@@ -1,5 +1,5 @@
 import streamlit as st
-from import google.generative as genai
+from import google.generativeai as genai
 
 st.set_page_config(page_title="EcoLens AI", page_icon="🌱", layout="centered")
 
